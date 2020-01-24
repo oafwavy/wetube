@@ -46,3 +46,7 @@ Cloning Youtube with Vanilla and NodeJS
  - model => Data
  - View => How does the data look
  - Controller => function the looks for the data
+
+
+ # PUG
+ - view engine
