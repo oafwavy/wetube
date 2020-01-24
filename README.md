@@ -40,3 +40,9 @@ Cloning Youtube with Vanilla and NodeJS
 - 유저와 마지막 응답 사이
 
 # Router
+
+
+# MVC(Model, View, Controller)
+ - model => Data
+ - View => How does the data look
+ - Controller => function the looks for the data
