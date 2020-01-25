@@ -3,6 +3,20 @@
 Cloning Youtube with Vanilla and NodeJS
 
 
+## Pages:
+- [] Home
+- [x] Join
+- [x] Login
+- [x] Search
+- [] UserDetail
+- [] EditProfile
+- [] ChangePassword
+- [] Upload
+- [] VideoDetail
+- [] EditVideo
+
+
+
 
 
 # Node
@@ -50,3 +64,9 @@ Cloning Youtube with Vanilla and NodeJS
 
  # PUG
  - view engine
+
+ # MongoDB
+ - NoSQL
+ - 데이터베이스
+ # Mongoose
+ - 데이터베이스와 연결하게 해줌
