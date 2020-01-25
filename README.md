@@ -70,3 +70,5 @@ Cloning Youtube with Vanilla and NodeJS
  - 데이터베이스
  # Mongoose
  - 데이터베이스와 연결하게 해줌
+
+# Multer
